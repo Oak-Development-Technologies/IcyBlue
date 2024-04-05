@@ -10,18 +10,18 @@ Questions? Email [hello@oakdev.tech](mailto:hello@oakdev.tech)
 
 ### Documentation ###
 
-All documentation can be found under the [Documentation](https://github.com/skerr92/IcyBlue/tree/main/Documentation) directory of this repository. This will include data sheets, usage guides, application notes, errata, and other important documents.
+All documentation can be found under the [Documentation](https://github.com/Oak-Development-Technologies/IcyBlue/tree/main/Documentation) directory of this repository. This will include data sheets, usage guides, application notes, errata, and other important documents.
 
 Documentation quick links:
 * Data sheet: [IcyBlue Overview Data Sheet](https://github.com/Oak-Development-Technologies/IcyBlue/blob/main/Documentation/IcyBlue%20Feather%20V2%20Datasheet%20rev1a.docx)
-* Board files: [EagleCAD Board Files](https://github.com/skerr92/IcyBlue/blob/main/Documentation/Lattice%20FPGA%20standard%20feather%20wing.brd)
-* Schematic files: [EagleCAD Schematic Files](https://github.com/skerr92/IcyBlue/blob/main/Documentation/Lattice%20FPGA%20standard%20feather%20wing.sch)
+* Board files: [EagleCAD Board Files](https://github.com/Oak-Development-Technologies/IcyBlue/blob/main/Documentation/Lattice%20FPGA%20standard%20feather%20wing.kicad_pcb)
+* Schematic files: [EagleCAD Schematic Files](https://github.com/Oak-Development-Technologies/IcyBlue/blob/main/Documentation/Lattice%20FPGA%20standard%20feather%20wing.kicad_sch)
 
 ### Schematic ###
 
-Represented below is the Rev 1a schematic. This is the current production schematic for the IcyBlue Feather. If major hardware changes are added, additional labeled schematic images can be found here and in the [documentation directory](https://github.com/skerr92/IcyBlue/tree/main/Documentation).
+Represented below is the Rev 1a schematic. This is the current production schematic for the IcyBlue Feather. If major hardware changes are added, additional labeled schematic images can be found here and in the [documentation directory](https://github.com/Oak-Development-Technologies/IcyBlue/tree/main/Documentation).
 
-<image src="https://github.com/skerr92/IcyBlue/blob/main/Images/IcyBlue%20Feather%20Schematic.png">
+<image src="https://github.com/Oak-Development-Technologies/IcyBlue/blob/main/Images/IcyBlue%20Schematic.png">
 
 ### Usage Examples ###
 

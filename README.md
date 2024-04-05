@@ -1,6 +1,6 @@
 # IcyBlue Feather FPGA Development Board
 
-<image src="https://github.com/Oak-Development-Technologies/IcyBlue/blob/main/Images/IceBlue%20Banner.jpg">
+<image src="https://github.com/Oak-Development-Technologies/IcyBlue/blob/main/Images/IMG_2196.jpg">
 
 Welcome to the home of the IcyBlue Feather, an FPGA based development board designed to be integrated into the Adafruit Feather ecosystem of Feathers and Feather Wings.
 
@@ -13,7 +13,7 @@ Questions? Email [hello@oakdev.tech](mailto:hello@oakdev.tech)
 All documentation can be found under the [Documentation](https://github.com/skerr92/IcyBlue/tree/main/Documentation) directory of this repository. This will include data sheets, usage guides, application notes, errata, and other important documents.
 
 Documentation quick links:
-* Data sheet: [IcyBlue Overview Data Sheet](https://github.com/skerr92/IcyBlue/blob/main/Documentation/IcyBlue%20Feather%20Datasheet%20rev1a.pdf)
+* Data sheet: [IcyBlue Overview Data Sheet](https://github.com/Oak-Development-Technologies/IcyBlue/blob/main/Documentation/IcyBlue%20Feather%20V2%20Datasheet%20rev1a.docx)
 * Board files: [EagleCAD Board Files](https://github.com/skerr92/IcyBlue/blob/main/Documentation/Lattice%20FPGA%20standard%20feather%20wing.brd)
 * Schematic files: [EagleCAD Schematic Files](https://github.com/skerr92/IcyBlue/blob/main/Documentation/Lattice%20FPGA%20standard%20feather%20wing.sch)
 
@@ -30,6 +30,7 @@ All usage examples including the RGB sequence example that ships with the board 
 Examples Quick Links:
 * [RGB Blink](https://github.com/skerr92/ice5lp4k_examples/tree/master/leds)
 * [DSP Example](https://github.com/skerr92/ice5lp4k_examples/tree/master/dsp)
+* [RGB Rainbow Chase](https://github.com/Oak-Development-Technologies/ice40_rgb_rainbow_chase)
 
 ### Errata ###
 
